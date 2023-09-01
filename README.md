@@ -1,6 +1,7 @@
 # Pyqt6-openweatherAPI
 
-pip install requests
+pip install requests    
+
 pip install pyqt6
 
 
