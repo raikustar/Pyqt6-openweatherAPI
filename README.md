@@ -5,4 +5,5 @@ pip install requests
 pip install pyqt6
 
 
-![pyqt6openweatherapipic](https://github.com/raikustar/Pyqt6-openweatherAPI/assets/134680487/b1cde90a-d4ac-4b97-ae42-b0de8ec1f897)
+
+![pyqt6openweatherapipic](https://github.com/raikustar/Pyqt6-openweatherAPI/assets/134680487/9eda3935-17cf-47c4-ae37-85e45b6f8cc3)
